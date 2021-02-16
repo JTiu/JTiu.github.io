@@ -1,0 +1,28 @@
+.jt-h1 {
+  color:rgb(15, 10, 10);
+  font-size: 80px;
+  
+  text-align: center;
+  background-color:DodgerBlue;
+
+}
+.jt-h3 {
+  color: rgb(12, 24, 24);
+  font-size: 40px;
+  text-align: center;
+  background-color:rgba(240, 255, 30, 0.986);
+
+}
+.jt-h4 {
+    color: coral;
+    font-size: 40px;
+    text-align: center;
+}
+p {
+  color: red;
+  text-align: center;
+  font-size: 50px;
+  border-top: thick;
+  border-top: yellow;
+}
+
